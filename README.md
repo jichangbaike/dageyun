@@ -3,7 +3,7 @@
 大哥云（DeGeYun）是一家目前比较火的网络加速服务商，提供低价、高流量的加速服务，支持流媒体解锁和 AI 工具访问。该服务支持 Trojan 协议，拥有香港、日本、新加坡、台湾、美国、英国等多个节点，适合各种日常上网需求。大哥云相对低廉，提供高流量套餐，适合需要大流量的用户。
 
 > 仓库说明：本文档也不构成购买建议。请在遵守所在地法律法规与服务条款的前提下使用。  
-> 更新时间：2026-01-19
+> 更新时间：2026-05-17
 
 ## 大哥云官网地址入口
 > 👉 大哥云官网：https://finalto.xyz/3qT56E
@@ -59,13 +59,13 @@
 大哥云支持多种平台和设备，您可以根据您的设备进行安装与配置：
 
 - **Windows**:
-  - 推荐使用客户端：FlClash、Clash Verge Rev.V2rayn
+  - 推荐使用客户端：FlClash、Clash Verge Rev
   
 - **macOS**:
   - 推荐使用客户端：FlClash、Clash Verge Rev
   
 - **iOS**:
-  - 推荐使用客户端：Shadowrocket, Quantumult, Surge, Loon
+  - 推荐使用客户端：Shadowrocket、QuantumultX、Surge、Loon
 
 - **Android**:
   - 推荐使用客户端：FlClash、V2rayNG、Clash Meta for Android
