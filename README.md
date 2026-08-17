@@ -59,13 +59,13 @@
 大哥云支持多种平台和设备，您可以根据您的设备进行安装与配置：
 
 - **Windows**:
-  - 推荐使用客户端：FlClash、Clash Verge Rev.V2rayn
+  - 推荐使用客户端：FlClash、Clash Verge Rev
   
 - **macOS**:
   - 推荐使用客户端：FlClash、Clash Verge Rev
   
 - **iOS**:
-  - 推荐使用客户端：Shadowrocket, Quantumult, Surge, Loon
+  - 推荐使用客户端：Shadowrocket、QuantumultX、Surge、Loon
 
 - **Android**:
   - 推荐使用客户端：FlClash、V2rayNG、Clash Meta for Android
